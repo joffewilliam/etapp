@@ -1,0 +1,12 @@
+<resources>
+    <string name="distance_hint">Enter distance (miles)</string>
+    <string name="start_time_hint">Enter start time (HH:mm)</string>
+    <string name="calculate">Calculate</string>
+    <string name="reset">Reset</string>
+    <string name="invalid_input">Invalid input</string>
+    <string name="eta_and_breaks">ETA: %1$s  with %2$d breaks</string>
+    <string name="app_name">ETA</string>
+    <string name="driving_time_hint">Enter how many hours you are driving today</string>
+    <string name="average_speed_hint">Put your average speed here, such as 50</string>
+
+</resources>
